@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="jstorm-split-count-demo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/jstorm_split_count_demo_jar</output-path>
+    <root id="archive" name="jstorm-split-count-demo.jar">
+      <element id="module-output" name="jstorm-split-count-demo" />
+    </root>
+  </artifact>
+</component>

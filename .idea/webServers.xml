@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5dfa1179-9f54-4a7d-8611-161a72e1b7b2" name="10.1.251.141" url="http://10.1.251.141">
+        <fileTransfer host="10.1.251.141" port="22" rootFolder="/data/jstorm" accessType="SFTP" password="df93df93df93df93df93df93" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="62202029-bb0f-44e2-bf2c-61124561a363" name="10.10.8.158 -dw核心账号" url="http://10.10.8.158 ">
+        <fileTransfer host="10.10.8.158 " port="22" rootFolder="/home/dw/work/live" accessType="SFTP" password="df9bdf98df99df9edf9cdf9f" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
